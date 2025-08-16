@@ -2,7 +2,7 @@
 
 An interactive web-based visualizer that helps users understand the working of key algorithms like Sorting, Searching, Minimum Spanning Tree (MST), and Shortest Path. Ideal for students and learners who want to strengthen their understanding of Data Structures and Algorithms through animation and interaction.
 
----
+Live demo -> https://nib1n.github.io/Sort-Scope-Interactive-Algorithm-Visualizer/
 
 ## ✨ Features
 
